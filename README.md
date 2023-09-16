@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&&color=0:EEFF00,100:a82da8&height=200&width=100%&section=header&text=CHOIJINHYUCK&fontSize=60)<br>
+![header](https://capsule-render.vercel.app/api?type=waving&&color=0:EEFF00,100:a82da8&height=200&width=100%&section=header&text=JINHYUCK_CHOI&fontSize=60)<br>
 
 # About Me : 
  꾸준하게 공부하고 있는 예비 백엔드 개발자 최진혁 입니다 !.
