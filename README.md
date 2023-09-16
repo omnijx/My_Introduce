@@ -30,3 +30,7 @@
   <img src="https://img.shields.io/badge/git-F05032.svg?style=flat&logo=git&logoColor=white"></a>&nbsp 
   <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat&logo=Eclipse&logoColor=white"></a>&nbsp 
 </div>
+
+![omnijx's github stats](https://github-readme-stats.vercel.app/api?username=omnijx&show_icons=true)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omnijx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
